@@ -9,7 +9,7 @@ Install the dependencies and start the server.
 ```sh
 $ cd freecodecamp_leaderboard
 $ npm install -d
-$ npm run build
+$ npm start
 ```
 
 # Demo
