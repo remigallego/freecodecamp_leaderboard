@@ -1,5 +1,5 @@
 # freecodecamp_leaderboard
-_An leaderboard of the users on Freecodecamp built with React__
+_A leaderboard for the users on Freecodecamp built with React_
 
 ### Installation
 freecodecamp_leaderboard requires [Node.js](https://nodejs.org/).<br />
